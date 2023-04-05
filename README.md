@@ -1,2 +1,2 @@
 # Cadastro de usuarios
-Registro de usuarios feito com Framework Django
+Projeto back-end de registro de usuarios feito em Django
